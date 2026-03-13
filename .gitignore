@@ -1,5 +1,0 @@
-data/
-outputs/explanations/
-__pycache__/
-*.pyc
-.env

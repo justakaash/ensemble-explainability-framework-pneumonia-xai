@@ -1,15 +1,4 @@
----
-title: Lung Health AI — Pneumonia Detection with Multi-XAI
-emoji: 🫁
-colorFrom: blue
-colorTo: indigo
-sdk: docker
-app_port: 7860
-pinned: false
-license: mit
----
-
-# 🫁 Explainable Deep Learning Model for Early Pneumonia Detection Using Chest X-Ray Images
+# 🫁 Explainable Deep Learning Model for Early Disease Diagnosis Using Medical Imaging
 
 > **Final Year Project** — B.E. Computer Science & Engineering  
 > Velammal Engineering College, Chennai
