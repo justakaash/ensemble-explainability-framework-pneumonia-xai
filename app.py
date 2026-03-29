@@ -801,10 +801,10 @@ def main():
             <div class="tech-item">
                 <div class="t-label">Paper</div>
                 <div class="t-val">
-                    Multi-Explainability Deep Learning
-                    Framework for Reliable Early
-                    Pneumonia Detection from
-                    Chest Radiographs<br><br>
+                    Ensemble Explainability Framework
+                    with XAI Consistency Score for
+                    Pneumonia Diagnosis Using
+                    DenseNet_121<br><br>
                     Dataset: Kaggle Chest X-Ray
                     (Pneumonia) — 5,232 images
                 </div>
